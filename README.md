@@ -1,9 +1,15 @@
-Sure! Here's a template for a README file that you can use for this program:
-
-```markdown
 # Arithmetic Calculator
 
 This is a simple Python program that takes two numbers as input from the user and performs basic arithmetic operations on them.
+
+## Table of Contents
+
+- [Features](#features)
+- [Usage](#usage)
+- [Example](#example)
+- [Suggestions and Advice](#suggestions-and-advice)
+- [Compiler Features](#compiler-features)
+- [About the Author](#about-the-author)
 
 ## Features
 
@@ -21,19 +27,9 @@ This is a simple Python program that takes two numbers as input from the user an
 
 ## Example
 
-```
-Enter the first number: 5
-Enter the second number: 3
-Choose an operation:
-+
--
-*
-/
-%
-^
-+
-5.0 + 3.0 = 8.0
-```
+Enter the first number: 5 Enter the second number: 3 Choose an operation: +
+/ % ^ + 5.0 + 3.0 = 8.0
+
 
 ## Suggestions and Advice
 
@@ -45,10 +41,11 @@ Choose an operation:
 
 This program was written in Python 3 and should work with any Python 3 interpreter. You can run it using the `python` command or by using an online Python interpreter.
 
-```
+## About the Author
 
-This README file provides an overview of the program, including its features and usage instructions. It also includes an example of how to use the program and some suggestions and advice for further development.
+Md. Fahim Shahoriar Titu is a fresh graduate with a BSc in CSE from NSU (2023 summer).
 
-To upload this README file to your GitHub account, you can create a new repository and add this file to it. Then, you can use Git to commit and push your changes to GitHub.
-
-Is there anything else you'd like to know?
+- GitHub: [TituShahoriar](https://github.com/TituShahoriar)
+- Email: fahimshahoriar66@gmail.com
+- Facebook: [fahim.shahoriar.t2](https://www.facebook.com/fahim.shahoriar.t2)
+- LinkedIn: [Fahim Shahoriar](https://www.linkedin.com/in/fahim-shahoriar/)
