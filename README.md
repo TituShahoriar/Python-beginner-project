@@ -438,8 +438,6 @@ Bar chart generated successfully!
 The Data Visualization Tool enables users to load data from different sources and generate visual representations of the data. It supports various types of charts and graphs, such as bar charts, line graphs, and pie charts. This tool facilitates data analysis and presentation.
 
 
----
-
 Please continue adding the descriptions for the remaining projects following the same format. Include the project's features, expected output, and a brief project description for each project.
 
 ## About the Author
